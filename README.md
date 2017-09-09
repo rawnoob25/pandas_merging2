@@ -6,6 +6,7 @@
 <li>Everything in TODO listed in merging_summer_olympics.ipynb and visible on merging_summer_olympics.html</li>
 </ul> 
 <hr> 
+
 * included data files 
   - 'Summer Olympic medals'/Bronze.csv 
   - 'Summer Olympic medals'/bronze_top5.csv 
