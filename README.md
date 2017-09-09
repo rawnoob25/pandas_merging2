@@ -5,7 +5,7 @@
 <li>Find out why .ipynb_checkpoints repository still appears on github in spite of .gitignore</li>
 <li>Everything in TODO listed in merging_summer_olympics.ipynb and visible on merging_summer_olympics.html</li>
 </ul> 
-<hr>
+<hr> 
 * included data files 
   - 'Summer Olympic medals'/Bronze.csv 
   - 'Summer Olympic medals'/bronze_top5.csv 
