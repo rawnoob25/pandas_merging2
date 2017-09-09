@@ -1,4 +1,4 @@
-## This repository contains a notebook that goes through an extended example of merging pandas data frames 
+## This repository contains a notebook that goes through an extended example of merging pandas data frames. The notebook also contains an example of the applymap function and of the pivot_table function.  
 
 * included data files 
   - 'Summer Olympic medals'/Bronze.csv 
